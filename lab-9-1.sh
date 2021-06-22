@@ -2,6 +2,7 @@ echo "Enter a No"
 read n
 #force conversion to base 10
 n=$((10#$n))
+echo $n
 o=0
 e=0
 while [ $n -ne 0 ]
