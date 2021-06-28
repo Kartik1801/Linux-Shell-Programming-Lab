@@ -1,3 +1,4 @@
+#Sum of Array Element
 echo "Enter No of Element"
 read length
 sum=0
