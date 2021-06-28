@@ -1,3 +1,4 @@
+#Average of array 
 echo "Enter No of Element"
 read length
 echo "Enter elements:"
