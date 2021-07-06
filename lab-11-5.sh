@@ -7,4 +7,11 @@ then
     continue
 fi  
 echo "$i is divisible by 9"  
-done    
+done 
+
+# if [ $(($i%9)) -eq 0 ]
+# then 
+#     echo "$i is divisible by 9"
+#     continue
+# fi    
+# done       
